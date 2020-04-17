@@ -5,6 +5,3 @@ def two_fer(name={}):
     else:
         sentence = "One for {name}, one for me.".format(name = name)
         return sentence
-
-
-
